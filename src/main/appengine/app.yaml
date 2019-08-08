@@ -1,4 +1,1 @@
-runtime: java
-env: flex
-handlers:
-  - url: /.*
+runtime: java8
